@@ -41,5 +41,5 @@ class ViewController: UIViewController {
 Result:
 
 <p align="center">
-  <img src="https://github.com/V8tr/AttributedStringBuilder/blob/master/demo.png" alt="Swift function builders, SwiftUI ViewBuilder"/>
+  <img src="https://github.com/V8tr/AttributedStringBuilder/blob/master/demo.png" width="50%" alt="Swift function builders, SwiftUI ViewBuilder"/>
 </p>
