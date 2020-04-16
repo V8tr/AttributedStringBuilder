@@ -6,7 +6,7 @@
 
 # AttributedStringBuilder
 
-A sample project showing how to use Swift function builders.
+A sample project showing how to implement custom Swift function builder using `NSAttributedString` as an example.
 
 Usage:
 
